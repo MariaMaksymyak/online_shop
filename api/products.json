@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "title": "Botanic illustration course",
+        "image": "botanic_illustration.png",
+        "description": "botanic illustration course",
+        "price": 15.99
+    },
+    {
+        "id": "2",
+        "title": "Fashion ілюстрація в Procreate",
+        "image": "fashion-illustration.png",
+        "description": "Fashion ілюстрація в Procreate",
+        "price": 19.99
+    },
+    {
+        "id": "3",
+        "title": "Малюнок для початківців",
+        "image": "drawing_for_beginners.JPG",
+        "description": "drawing for beginners",
+        "price": 24.99
+    },
+    {
+        "id": "4",
+        "title": "Fashion ілюстрація Vol-1",
+        "image": "fashion_for_beginners.png",
+        "description": "Fashion for beginners",
+        "price": 34.99
+    }
+]
